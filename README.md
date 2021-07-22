@@ -32,14 +32,10 @@
 <br />
 <br />
 
+### GitHub Analytics
 
+![Adarsh's stats](https://github-readme-stats.vercel.app/api?username=avaibhav54&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vaibhav's GitHub Stats" src="https://github-readme-stats.avaibhav54.vercel.app/api?username=avaibhav54&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://vaibhavagarwal1.github.io/home/
 [instagram]: https://www.instagram.com/agarwal__vaibhav__/
