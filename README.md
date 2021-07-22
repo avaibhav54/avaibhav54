@@ -2,7 +2,7 @@
 <h3 align="center">Website Developer | Java | Coding enthusiast | Learner</h3>
 
 
-[![Linkedin](https://img.shields.io/badge/-Vaibhav %20 Agarwal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahuadarsh0/)](https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/)
+[![Linkedin](https://img.shields.io/badge/-Vaibhav Agarwal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahuadarsh0/)](https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/)
 [![Gmail](https://img.shields.io/badge/-agarwalvaibhav041@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:agarwalvaibhav041@gmail.com)
 [![Github](https://img.shields.io/github/followers/avaibhav54?label=Follow&style=social)](https://github.com/avaibhav54)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
