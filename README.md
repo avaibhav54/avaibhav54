@@ -1,14 +1,19 @@
-### Hi there, I'm  Vaibhav Agarwal [portfolio][website] 👋
+<h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
+<h3 align="center">Website Developer | Java | Coding enthusiast | Learner</h3>
 
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin](https://img.shields.io/badge/-Adarsh%20Sahu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahuadarsh0/)](https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/)
+[![Gmail](https://img.shields.io/badge/-sahuadarsh0@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:agarwalvaibhav041@gmail.com)
+[![Github](https://img.shields.io/github/followers/sahuadarsh0?label=Follow&style=social)](https://github.com/avaibhav54)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+
+### About me 
+
+I'm an Android Developer and Designer. I like to work with Codeigniter and Koltin .
+I'm open-source development enthusiast.
+
+
 
 ### Languages and Tools:
 
