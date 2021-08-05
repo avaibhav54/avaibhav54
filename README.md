@@ -2,13 +2,17 @@
 <img src="https://github.com/avaibhav54/avaibhav54/blob/main/prpassport.jpg" width="400" height="400"/>
 </p>
 <h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
-<h3 align="center">Website Developer | Java | Coding enthusiast | Learner</h3>
+<h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
 
 
-[![Linkedin](https://img.shields.io/badge/-Vaibhav%20agarwal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/)](https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/)
-[![Gmail](https://img.shields.io/badge/-agarwalvaibhav041@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:agarwalvaibhav041@gmail.com)
-[![Github](https://img.shields.io/github/followers/avaibhav54?label=Follow&style=social)](https://github.com/avaibhav54)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+<br>
+<a href="https://www.instagram.com/agarwal__vaibhav__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:agarwalvaibhav041@gmail.com?subject=Hi%20Vaibhav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="http://vaibhavagarwal1.github.io/home"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+  [![Github](https://img.shields.io/github/followers/avaibhav54?label=Follow&style=social)](https://github.com/avaibhav54)
+</p>
 
 
 ### About me 
