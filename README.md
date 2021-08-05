@@ -39,8 +39,8 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=avaibhav54&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vaibhav's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=avaibhav54&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Vaibhav's Top Languages">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaibhav54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
