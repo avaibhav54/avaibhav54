@@ -39,7 +39,7 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 
 
 
-[![github-profile-languages](http://i.imgur.com/QG6Gh5I.png)](http://ionicabizau.github.io/github-profile-languages?user=avaibhav54)
+[![github-profile-languages](http://i.imgur.com/QG6Gh5I.png)](http://avaibhav54.github.io/github-profile-languages?user=avaibhav54)
 
 
 
