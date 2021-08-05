@@ -42,6 +42,16 @@ I'm open-source development enthusiast.
 ![Vaibhav's stats](https://github-readme-stats.vercel.app/api?username=avaibhav54&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ricksaha2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Jayit's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ricksaha2000&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Jayit's Top Languages">
+
+
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
 [website]: https://vaibhavagarwal1.github.io/home/
 [instagram]: https://www.instagram.com/agarwal__vaibhav__/
 [linkedin]: https://www.linkedin.com/in/vaibhav-agarwal-a1746a1a9/
