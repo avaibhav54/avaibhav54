@@ -19,11 +19,7 @@
 
 
 ### About me 
-
-I'm an Android Developer and Designer. I like to work with Codeigniter and Koltin .
-I'm open-source development enthusiast.
-
-
+An underergraduate student pursuing BTECH in computer science at VIT, I am passionate about coding,website designing, data science, being an open-minded learner, I always look for opportunities to explore and learn anything new and look for options to implement innovative strategies in solving problems and challenges with a logical bent of mind. I always believe that balancing,extracurricular activities and work,enhances productivity and can promote holistic development.
 
 ### Languages and Tools:
 
