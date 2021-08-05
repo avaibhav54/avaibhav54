@@ -37,7 +37,13 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 
 ![Vaibhav's stats](https://github-readme-stats.vercel.app/api?username=avaibhav54&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?avaibhav54" frameborder="0"></iframe>
+
+
+[![github-profile-languages](http://i.imgur.com/QG6Gh5I.png)](http://ionicabizau.github.io/github-profile-languages?user=avaibhav54)
+
+
+
+
 
 
 <div align="center">
