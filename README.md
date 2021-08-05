@@ -1,5 +1,6 @@
-
-<img src="https://github.com/avaibhav54/avaibhav54/blob/master/prpassport.jpg" width="400" height="400"/>
+<p align="center">
+<img src="https://github.com/avaibhav54/avaibhav54/blob/main/prpassport.jpg" width="400" height="400"/>
+</p>
 <h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
 <h3 align="center">Website Developer | Java | Coding enthusiast | Learner</h3>
 
