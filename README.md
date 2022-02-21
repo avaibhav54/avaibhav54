@@ -83,7 +83,7 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=avaibhav54&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avaibhav54&theme=chartreuse-dark&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+    
    </tr>
 </table>
 <!-- ### GitHub Analytics
