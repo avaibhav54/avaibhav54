@@ -10,8 +10,8 @@
 </h2>
 
 <p align="right">
-<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
-  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
+<a href="https://wakatime.com/@49aa31bd-cc77-415d-b598-9dc1dfa69abf">
+  <img src="https://wakatime.com/@49aa31bd-cc77-415d-b598-9dc1dfa69abf.svg?style=social" alt="Total time coded since Sep 27 2021" />
 </a>
 </p>
   
