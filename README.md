@@ -21,6 +21,21 @@
 ### About me 
 An underergraduate student pursuing BTECH in computer science at VIT, I am passionate about coding,website designing, data science, being an open-minded learner, I always look for opportunities to explore and learn anything new and look for options to implement innovative strategies in solving problems and challenges with a logical bent of mind. I always believe that balancing,extracurricular activities and work,enhances productivity and can promote holistic development.
 
+
+
+
+<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
+
+|<img align=center alt="avaibhav54's streak" src="https://github-readme-stats.vercel.app/api?username=avaibhav54&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=avaibhav54&theme=dark"/>|
+|---|---|
+
+<a href="#"><img alt="avaibhav54's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=avaibhav54&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+<h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
+
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
