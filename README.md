@@ -74,7 +74,7 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 <br><br>
-### GitHub Analytics
+<!-- ### GitHub Analytics
 
 ![Vaibhav's stats](https://github-readme-stats.vercel.app/api?username=avaibhav54&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
@@ -82,7 +82,7 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 
 [![github-profile-languages](https://github.com/avaibhav54/avaibhav54/blob/main/lang.png)](http://ionicabizau.github.io/github-profile-languages/?user=avaibhav54)
 
-
+ -->
 
 
 
