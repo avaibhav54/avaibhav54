@@ -1,7 +1,30 @@
 <p align="center">
 <img src="https://github.com/avaibhav54/avaibhav54/blob/main/prpassport.jpg" width="400" height="400"/>
 </p>
-<h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
+
+
+
+<h2 align="center">
+  Welcome to Vaibhav Agarwal's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<p align="right">
+<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
+  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
+</a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/avaibhav54?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/avaibhav54"/></a>
+  <a href="https://github.com/avaibhav54?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/avaibhav54?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+
+
+
 <h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
 
 
