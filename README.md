@@ -1,9 +1,15 @@
 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"></p>
+<img src="
+https://media-exp1.licdn.com/dms/image/C5622AQEv_P_LU4KP3Q/feedshare-shrink_2048_1536/0/1645852454681?e=1648684800&v=beta&t=PHd1yZDe9W-1uNS-WCktd5mTOI9aJ_ZGkvQrSFvpZyY">
 
 
+</p>
+
+<!-- https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966
+   -->
+   
 <h2 align="center">
   Welcome to Vaibhav Agarwal's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
